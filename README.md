@@ -1,0 +1,2 @@
+# organish
+kodlarni tahlil qilsh
